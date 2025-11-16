@@ -17,8 +17,8 @@ If you discover a security issue or suspicious behavior in this project, **pleas
 
 Instead, contact us privately:
 
-- **Email:** security@yourdomain.com *(replace with your real email)*
-- **Alternative (optional):** Create a private GitHub security advisory
+- Email: ogttamimi@gmail.com 
+
 
 We appreciate responsible disclosure and will respond as fast as possible.
 
