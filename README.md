@@ -1,6 +1,8 @@
-![alt text](https://github.com/ogtamimi/n8n-kali/blob/main/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png?raw=true)
+![alt text](https://github.com/ogtamimi/n8n-kali/blob/main/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png?raw=true) 
 
-# N8NKALI --- Kali Linux + n8n (Root Access)
+# N8NKALI --- Kali Linux + n8n (Root Access)  ![Security](https://img.shields.io/badge/Security-Responsible%20Disclosure-blue)  ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+
 
 This Docker image contains **Kali Linux (rolling)** combined with the
 **n8n Automation Platform**, running with **full root access**.\
