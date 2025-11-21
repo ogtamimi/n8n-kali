@@ -62,6 +62,15 @@ just use this command
 docker push ogtamimi/n8nkali:v2
 ```
 
+## 📄 License
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, distribute, and integrate the code as long as proper credit is given.
+
+For full details, see the [LICENSE](./LICENSE) file.
+
 ## ❤️ Summary
 
 **N8NKALI = Kali Linux + n8n + Root Access + Web-CTF Tools**\
